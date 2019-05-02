@@ -1,1 +1,2 @@
 also example for branch 3
+a new line
