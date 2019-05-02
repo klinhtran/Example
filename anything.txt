@@ -1,3 +1,4 @@
 some characters
 added more characters
 some characters more
+example for branch3
